@@ -16,7 +16,7 @@
 
 ```
 git clone git@github.com:tsukasakop/42-repo-template.git
-git remote rename origin ${url_to_push}
+git remote set-url origin ${url_to_push}
 ```
 
 ## Copy files to main
